@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shiva-2008
-- 👀 I’m interested in working with Frontend Projects
+- 👀 I’m mainly work in Frontend Projects
 - 🌱 I’m currently learning Backend processes
 - 📜 I'm quite wellversed with frontend langiages including HTML, CSS and JavaScript.
 
