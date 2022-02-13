@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shiva-2008
-- 👀 I’m mainly work in Frontend Projects
+- 👀 I mainly work in Frontend Projects
 - 🌱 I’m currently learning Backend processes
-- 📜 I'm quite wellversed with frontend langiages including HTML, CSS and JavaScript.
+- 📜 I'm quite well-versed with frontend languages including HTML, CSS and JavaScript.
 
 
 <!---
